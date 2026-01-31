@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific outputs
+continuous_polyline.svg
+continuous_polyline.thr
+visualize_scratch.svg
+check_results.txt
+d_points.txt
+new_a.txt
