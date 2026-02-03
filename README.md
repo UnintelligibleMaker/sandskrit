@@ -4,6 +4,11 @@ SandSkrit is a Python library for generating continuous paths (polylines) design
 
 
 ![SandSkritIntro](images/SandSkritIntro.jpg)
+Note: My sand is a little piled up near the center of the table still in this photo.  
+
+![SandSkritCharacters](images/SandSkritCharacters.jpg)
+
+
 
 ## Features
 
