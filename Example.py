@@ -49,8 +49,8 @@ def main():
     sandskrit.add_outer_loop(turns=2, ending_angle=0)
 
     # Save the generated pattern in both SVG and THR formats
-    sandskrit.save_svg("continuous_polyline.svg")
-    sandskrit.save_thr("continuous_polyline.thr")
+    sandskrit.save_svg("images/continuous_polyline.svg")
+    sandskrit.save_thr("images/continuous_polyline.thr")
     
     print("Example generated successfully!")
 

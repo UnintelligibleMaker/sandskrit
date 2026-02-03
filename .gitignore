@@ -31,8 +31,8 @@ env/
 *.swo
 
 # Project specific outputs
-continuous_polyline.svg
-continuous_polyline.thr
+images/continuous_polyline.svg
+images/continuous_polyline.thr
 visualize_scratch.svg
 check_results.txt
 d_points.txt
